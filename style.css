@@ -148,3 +148,7 @@ a {
 .right-side img {
     height: 770px;
 }
+
+.left-side p {
+    font-size: 0.8rem;
+}
